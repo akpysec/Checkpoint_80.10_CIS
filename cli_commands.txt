@@ -1,0 +1,89 @@
+show password-controls min-password-length
+
+show password-controls palindrome-check
+
+show password-controls complexity
+
+show password-controls history-checking
+
+show password-controls history-length
+
+show password-controls password-expiration
+
+show password-controls expiration-warning-days
+
+show password-controls expiration-lockout-days
+
+show password-controls deny-on-nonuse enable
+
+show password-controls deny-on-nonuse allowed-days
+
+show password-controls force-change-when
+
+show password-controls deny-on-fail enable
+
+show password-controls deny-on-fail failures-allowed
+
+show password-controls deny-on-fail allow-after
+
+show configuration message
+
+show configuration message
+
+show core-dump status
+
+show config-state
+
+show interfaces all
+
+show dns primary
+
+show dns secondary
+
+show dns tertiary
+
+show ipv6-state
+
+show hostname
+
+show net-access telnet
+
+show dhcp server status
+
+show snmp agent
+
+show snmp agent-version
+
+show snmp traps enabled-traps
+
+show snmp traps receivers
+
+show ntp active
+
+show ntp servers
+
+show timezone
+
+show backup last-successful
+
+show snapshots
+
+show inactivity-timeout
+
+show web session-timeout
+
+show aaa tacacs-servers list
+
+show aaa tacacs-servers list
+
+show aaa radius-servers list
+
+show allowed-client all	
+
+show syslog mgmtauditlogs
+
+show syslog auditlog
+
+show syslog cplogs
+
+
